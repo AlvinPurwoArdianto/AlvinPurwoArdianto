@@ -4,7 +4,7 @@
 </p>
 
 <p>
-<img align="right" alt="Coding" width="370" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGk1YnVoZmllbHBteDF1MmNhemwyNTR3dXpqNW5sdXJ4NHZoNHdrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" alt="Coding" width="370" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnp1M25pZmdybHRtd3JycHgxeXJwNzZiYmY0azF0NWdoaWs2c3E3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif"/>
 Find out more about me
 
 [![Instagram Badge](https://img.shields.io/badge/-alvinpwrd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alvinpwrd/)](https://instagram.com/alvinpwrd)
